@@ -1,0 +1,2 @@
+# anusshot
+Custom Lightshot server
